@@ -1,3 +1,2 @@
-# git_test
-Some Github repo!
-Hello Odin!
+# python
+Some random python things
